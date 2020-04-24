@@ -1,0 +1,133 @@
+# Profile section
+profile:
+  first_name: Diogo
+  last_name: Puppim
+  # picture: https://rodolfoferro.xyz/assets/images/profile.jpg   # Hosted picture
+  picture: https://cdn.glitch.com/14e9bf43-4d27-40b4-a328-c10589365cfa%2FfaceDiogo.jpg?v=1587673079884 # Local picture
+  contact:
+    address_one: Itaguaçu, ES
+    address_two:
+    phone: (55) 9991910990
+  email: diogopuppim@gmail.com
+  description: >
+   Mestre em computação pela Universidade Federal de São Carlos (UFSCar), na área de Inteligência Artificial, graduado em sistema da informação pelo Centro Universitário do Espírito Santo (UNESC) e Técnico em automação industrial pelo Instituto Federal do Espírito Santo (IFES).
+
+
+# Social section
+social:
+  website: 
+  github: https://github.com/Puppim
+  twitter: https://twitter.com/PuppimDiogo
+  linkedin: https://www.linkedin.com/in/diogo-puppim-de-oliveira-207905a7/
+  facebook:
+  dev: 
+  medium: 
+
+
+# Experience section
+experience:
+  item0:
+    position: Analista de Dados
+    company: Shipp
+    from: jan 2020
+    to: may 2020
+    description: >
+      A startup tem mais de 700 estabelecimentos parceiros e mais de cinco mil motoboys cadastrados
+    link: 
+  item1:
+    position: Bolsista
+    company: TEAR- UFSCar
+    from: Mar 2016
+    to:  Mai 2018
+    description: >
+      Em ambientes industriais é imprescindível a utilização da robótica para prover uma resposta eficiente e dinâmica às demandas desse setor. Em particular, por meio do uso de AGV (Automated Guided Vehicle), robôs industriais para transporte de materiais em meios internos e externos no setor industrial. As realizações das atividades estabelecidas exigem um sistema de sensoriamento, navegação e controle do veículo por meio dos atuadores. Estes sistemas podem ser representados por modelagem matemática e simulados, por meio de softwares específicos. O trabalho teve como objetivo a representação da dinâmica dos AGV’s por emprego do modelo da dinâmica dos atuadores dos veículos que serão representados em um ambiente virtual modelado no Unity3D. Para a realização do trabalho foi empregador no desenvolvimento no Python, Visão computacional, openCV, C#, Modelagem Matemática, Unity 3D.
+
+  reference: 
+
+
+# Education section
+education:
+  item1:
+    institution: UFSCAR
+    program: Mestre em Ciência da Computação
+    description: >
+      O objetivo do Programa de Pós-graduação em Ciência da Computação (PPG-CC) da UFSCar é formar profissionais altamente qualificados, que tenham condições de atuar tanto na carreira acadêmica como no mercado de trabalho. A proposta do PPG-CC quanto à sua atuação em aspectos de formação e pesquisa é cobrir de forma abrangente as grandes áreas da computação, acompanhando a evolução do estado da arte e investindo na pesquisa e ensino de tópicos atuais e inovadores.
+    from: 2016
+    to: 2018
+  item2:
+    institution: Centro Universitário do Espírito Santo
+    program: Bacharel em Sistemas de Informação
+    description: >
+      Desenvolver programas,Projetar e desenvolver aplicativos para microcomputadores e computadores de grande porte; Propor planos e sistemas de informatização na empresa, Analisar custos, viabilidade técnica, econômica e financeira para a implantação de processos de automação, Compreender, analisar e introduzir modificações nos processos de informação das empresas Controlar o fluxo de informações na empresa através da criação de aplicativos que facilitem esse processo
+    from: 2011
+    to:  2015
+
+
+# Community section:
+community:
+  item0:
+    institution: Kaggle
+    program: COVID-19 Open Research Dataset Challenge (CORD-19)
+    description: "Estamos emitindo um apelo à ação dos especialistas em inteligência artificial do mundo para desenvolver ferramentas de mineração de texto e dados que podem ajudar a comunidade médica a desenvolver respostas para perguntas científicas de alta prioridadeEstamos emitindo um apelo à ação dos especialistas em inteligência artificial do mundo para desenvolver ferramentas de mineração de texto e dados que podem ajudar a comunidade médica a desenvolver respostas para perguntas científicas de alta prioridade"
+    from: September 2019
+    to: Present
+    link: https://omdena.com
+  
+
+# Skills section
+tools:
+  # Consider that the following are fa icons:
+  #   https://fontawesome.com/icons?d=gallery&s=brands
+  - python
+  - github
+  - gitlab
+  - raspberry-pi
+  - google
+  - google-drive
+  - slack
+  - trello
+  - markdown
+  - pandas
+  - big query
+extra_skills:
+  - Web scraping and web automation
+  - APIs and web development, MongoDB
+  - Image processing and computer vision
+  - Machine learning and deep learning
+  - Many Python packages – Flask, NumPy, matplotlib, Tensorflow, etc.
+
+
+# Talks and workshops section
+workshops:
+  item0:
+    event: Codenation
+    workshop: AI in modern times, February 2020.
+    material:
+    link: https://www.ted.com/tedx/events/35293
+
+# Projects section
+projects:
+  item1:
+    title: Site estatico
+    subtitle: site em html5 com javascript
+    description: Solicitado pela empresa para criar um site estatico com integração do formulario com o email da empresa.
+    link: http://bioengen.com.br/
+    github: 
+    img: bioeng.PNG
+    tags: [HTML5, JavaScript, Bootstrap]
+  item2:
+    title: data-cleaning
+    subtitle: Limpeza de dados com Streamlit
+    description: Generic data set cleaning and basic analysis.
+    link: https://app-data-cleaning.herokuapp.com/
+    github: 
+    img: 
+    tags: [Python, Streamlit, Machine Learning]
+
+
+
+# Certifications and awards section
+awards:
+  - 2015 1º Lugar no Teste de Progresso, UNESC.
+  - 2013 1º Lugar no Teste de Progresso, UNESC.
+  
